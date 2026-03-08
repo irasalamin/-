@@ -1,0 +1,22 @@
+body{
+  font-family: sans-serif;
+  background-color: #e3b146;
+  
+}
+h1{
+    background-color:#a68132 ;
+    color:#73ebe3;
+    text-align: center;
+}
+h2{
+    background-color:#e6520e;
+    width: 30px ;
+}
+p{
+    background-color: #f0a356;
+}
+img 
+{
+    text-align: center;
+    margin-left: 120px;
+}
